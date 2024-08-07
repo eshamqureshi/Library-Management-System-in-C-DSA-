@@ -1,0 +1,13 @@
+Book id: 001	Book title: money heist	        Book category: Fiction	        Book Genre: Fan	
+Book id: 002	Book title: wenesday	        Book category: Non-Fiction	Book Genre: Narrative	
+Book id: 003	Book title: mola jutt	        Book category: Fiction	        Book Genre: Realistic	
+Book id: 004	Book title: All of us dead	Book category: Non-Fiction	Book Genre: Narrative	
+Book id: 005	Book title: stanger things	Book category: Non-Fiction	Book Genre: Biography	
+Book id: 006	Book title: squid games		Book category: Non-Fiction	Book Genre: Periodicals	
+Book id: 007	Book title: shaka	        Book category: Fiction	        Book Genre: Fan	
+Book id: 008	Book title: Sultan	        Book category: Non-Fiction	Book Genre: Narrative	
+Book id: 009	Book title: Villian	        Book category: Fiction	        Book Genre: Realistic	
+Book id: 003	Book title: CAT			Book category: Fiction		Book Genre: Historical
+Book id: 1	Book title: www		Book category: Non-Fiction	Book Genre: Self-help	
+Book id: 1	Book title: www		Book category: Non-Fiction	Book Genre: Self-help	
+Book id: 1	Book title: www		Book category: Non-Fiction	Book Genre: Self-help	
